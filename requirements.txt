@@ -1,4 +1,5 @@
-numpy==2.1.1
+numpy==1.26.4
 pydicom==3.0.0
 nibabel==5.2.1
 pynrrd==1.0.0
+ttkbootstrap==1.10.1
