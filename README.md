@@ -1,6 +1,6 @@
 # Scan Duplicate Checker
 
-![Scan Duplicate Checker Logo](assets/logo.png)
+![Scan Duplicate Checker Logo](assets/cover.png)
 
 Scan Duplicate Checker is a powerful tool designed to help medical professionals and researchers identify duplicate medical scans quickly and efficiently. Whether you're managing a large database of medical images or comparing individual scans, our application streamlines the process of detecting duplicates.
 
